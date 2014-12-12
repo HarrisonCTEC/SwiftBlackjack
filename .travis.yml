@@ -1,4 +1,4 @@
 language: objective-c
 
 script:
-  - xctool -project SwiftBlackjack.xcodeproj -scheme SwiftBlackjac build
+  - xctool -project SwiftBlackjack.xcodeproj -scheme SwiftBlackjack build
