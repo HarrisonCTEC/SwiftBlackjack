@@ -1,2 +1,9 @@
 language: objective-c
-xcode_project: SwiftBlackJack
+
+before_install:
+  - brew update
+  - brew install xctool
+
+script:
+  - cd SwiftBlackJack
+  - xctool -project SwiftBlackJack.xcodeproj build
