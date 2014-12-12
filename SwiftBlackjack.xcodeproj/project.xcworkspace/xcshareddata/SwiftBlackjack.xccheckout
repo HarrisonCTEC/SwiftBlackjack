@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08748448-611F-41D0-89C6-424C9BD613E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftBlackjack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDA4C783E74EA67139CEA1B7CA756E7ED2567126</key>
+		<string>https://github.com/HarrisonCTEC/SwiftBlackjack.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftBlackjack.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDA4C783E74EA67139CEA1B7CA756E7ED2567126</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HarrisonCTEC/SwiftBlackjack.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDA4C783E74EA67139CEA1B7CA756E7ED2567126</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDA4C783E74EA67139CEA1B7CA756E7ED2567126</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftBlackjack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
